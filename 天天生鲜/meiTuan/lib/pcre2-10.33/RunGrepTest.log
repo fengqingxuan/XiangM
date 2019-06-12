@@ -1,0 +1,7 @@
+Testing pcre2grep version 10.33 2019-04-16
+Testing pcre2grep main features
+Testing pcre2grep UTF-8 features
+Testing pcre2grep newline settings
+Testing pcre2grep script callouts
+Testing miscellaneous pcre2grep arguments (unchecked)
+PASS RunGrepTest (exit status: 0)

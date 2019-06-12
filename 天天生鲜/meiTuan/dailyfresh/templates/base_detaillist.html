@@ -1,0 +1,48 @@
+{#  详情页，列表页父模板#}
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block body %}
+    <div class="navbar_con">
+		<div class="navbar clearfix">
+			<div class="subnav_con fl">
+				<h1>全部商品分类</h1>
+				<span></span>
+				<ul class="subnav">
+                    {% for good in goodtypes %}
+                         <li><a href="{% url 'goods:list' good.id 1 %}" class="{{ good.logo }}">{{ good.name }}</a></li>
+                    {% endfor %}
+				</ul>
+			</div>
+			<ul class="navlist fl">
+				<li><a href="">首页</a></li>
+				<li class="interval">|</li>
+				<li><a href="">手机生鲜</a></li>
+				<li class="interval">|</li>
+				<li><a href="">抽奖</a></li>
+			</ul>
+		</div>
+	</div>
+    {# 详情页、列表页主体 #}
+    {% block main_body %}{% endblock main_body %}
+{% endblock body %}
+{% block bottomfiles %}
+    <script type="text/javascript" src="{% static 'js/jquery-1.12.4.min.js' %}"></script>
+	<script type="text/javascript" src="{% static 'js/slideshow.js' %}"></script>
+	<script type="text/javascript">
+		{#BCSlideshow('focuspic');#}
+        $(function () {
+            var oFruit = document.getElementById('fruit_more');
+		    var oShownum = document.getElementById('show_count');
+		    var hasorder = localStorage.getItem('order_finish');
+
+            if(hasorder)
+            {
+                oShownum.innerHTML = '2';
+            }
+
+            oFruit.onclick = function(){
+                window.location.href = 'list.html';
+            }
+            })
+	</script>
+{% endblock bottomfiles %}

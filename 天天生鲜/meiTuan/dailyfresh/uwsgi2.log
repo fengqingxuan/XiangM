@@ -1,0 +1,34 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Wed Jun  5 21:55:28 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi2.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqinngxuan/meiTuan/dailyfresh
+your processes number limit is 19481
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8081 #使用nginx连接时使用 fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/fengqinngxuan/.virtualenvs/bj18_py3
+Python main interpreter initialized at 0x11e08b0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 5 seconds on interpreter 0x11e08b0 pid: 19772 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 19772)
+spawned uWSGI worker 1 (pid: 19776, cores: 1)
+spawned uWSGI worker 2 (pid: 19777, cores: 1)
+spawned uWSGI worker 3 (pid: 19778, cores: 1)
+spawned uWSGI worker 4 (pid: 19779, cores: 1)
+[pid: 19776|app: 0|req: 1/1] 127.0.0.1 () {42 vars in 852 bytes} [Wed Jun  5 22:05:12 2019] GET /user/ => generated 4805 bytes in 4052 msecs (HTTP/1.1 200) 4 headers in 124 bytes (1 switches on core 0)

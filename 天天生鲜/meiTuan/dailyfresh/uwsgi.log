@@ -1,0 +1,333 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Jun  3 22:58:15 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Jun  3 23:00:31 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Jun  3 23:02:00 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 21:21:52 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 21:35:55 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh/
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 21:44:29 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 21:48:04 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 21:50:53 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 21:51:00 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 21:54:34 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 21:55:33 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqingxuan/meiTuan/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 22:22:00 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqinngxuan/meiTuan/dailyfresh
+your processes number limit is 19481
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:33349 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/fengqinngxuan/.virtualenvs/bj18_py3
+Python main interpreter initialized at 0x12819c0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x12819c0 pid: 17689 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 17689)
+spawned uWSGI worker 1 (pid: 17692, cores: 1)
+spawned uWSGI worker 2 (pid: 17693, cores: 1)
+spawned uWSGI worker 3 (pid: 17694, cores: 1)
+spawned uWSGI worker 4 (pid: 17695, cores: 1)
+spawned uWSGI http 1 (pid: 17696)
+<QuerySet [<IndexTypeGoodsBanner: 草莓>]>
+<QuerySet []>
+<QuerySet []>
+<QuerySet [<IndexTypeGoodsBanner: 鸡蛋>]>
+<QuerySet []>
+<QuerySet []>
+[pid: 17694|app: 0|req: 1/1] 127.0.0.1 () {38 vars in 733 bytes} [Tue Jun  4 22:22:33 2019] GET / => generated 13576 bytes in 1133 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17694|app: 0|req: 2/2] 127.0.0.1 () {38 vars in 705 bytes} [Tue Jun  4 22:22:35 2019] GET /static/js/jquery-ui.min.js => generated 77 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 17694|app: 0|req: 3/3] 127.0.0.1 () {38 vars in 697 bytes} [Tue Jun  4 22:22:35 2019] GET /static/js/slideshow.js => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 17694|app: 0|req: 4/4] 127.0.0.1 () {38 vars in 733 bytes} [Tue Jun  4 22:22:35 2019] GET /static/images/logo.png => generated 77 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 17692|app: 0|req: 1/5] 127.0.0.1 () {38 vars in 713 bytes} [Tue Jun  4 22:22:35 2019] GET /static/js/jquery-1.12.4.min.js => generated 77 bytes in 2109 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 17693|app: 0|req: 1/6] 127.0.0.1 () {38 vars in 705 bytes} [Tue Jun  4 22:22:35 2019] GET /static/css/main.css => generated 77 bytes in 2179 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 17695|app: 0|req: 1/7] 127.0.0.1 () {38 vars in 709 bytes} [Tue Jun  4 22:22:35 2019] GET /static/css/reset.css => generated 77 bytes in 2193 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 17694|app: 0|req: 5/8] 127.0.0.1 () {38 vars in 705 bytes} [Tue Jun  4 22:22:37 2019] GET /static/js/jquery-ui.min.js => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 17692|app: 0|req: 2/9] 127.0.0.1 () {38 vars in 697 bytes} [Tue Jun  4 22:22:37 2019] GET /static/js/slideshow.js => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 17693|app: 0|req: 2/10] 127.0.0.1 () {38 vars in 711 bytes} [Tue Jun  4 22:22:37 2019] GET /favicon.ico => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 17696)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 22:44:42 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqinngxuan/meiTuan/dailyfresh
+your processes number limit is 19481
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:39623 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/fengqinngxuan/.virtualenvs/bj18_py3
+Python main interpreter initialized at 0x23d09c0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x23d09c0 pid: 18033 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 18033)
+spawned uWSGI worker 1 (pid: 18036, cores: 1)
+spawned uWSGI worker 2 (pid: 18037, cores: 1)
+spawned uWSGI worker 3 (pid: 18038, cores: 1)
+spawned uWSGI worker 4 (pid: 18039, cores: 1)
+spawned uWSGI http 1 (pid: 18040)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 18040)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Jun  4 22:45:41 2019] ***
+compiled with version: 5.4.0 20160609 on 03 June 2019 14:54:50
+os: Linux-4.15.0-50-generic #54~16.04.1-Ubuntu SMP Wed May 8 15:55:19 UTC 2019
+nodename: fengqinngxuan-virtual-machine
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/fengqinngxuan/meiTuan/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/fengqinngxuan/.virtualenvs/bj18_py3/bin/uwsgi
+chdir() to /home/fengqinngxuan/meiTuan/dailyfresh
+your processes number limit is 19481
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8080 #使用nginx连接时使用 fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/fengqinngxuan/.virtualenvs/bj18_py3
+Python main interpreter initialized at 0x21da8b0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x21da8b0 pid: 18063 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 18063)
+spawned uWSGI worker 1 (pid: 18065, cores: 1)
+spawned uWSGI worker 2 (pid: 18066, cores: 1)
+spawned uWSGI worker 3 (pid: 18067, cores: 1)
+spawned uWSGI worker 4 (pid: 18068, cores: 1)
+<QuerySet [<IndexTypeGoodsBanner: 草莓>]>
+<QuerySet []>
+<QuerySet []>
+<QuerySet [<IndexTypeGoodsBanner: 鸡蛋>]>
+<QuerySet []>
+<QuerySet []>
+[pid: 18067|app: 0|req: 1/1] 127.0.0.1 () {44 vars in 835 bytes} [Tue Jun  4 22:46:07 2019] GET / => generated 13576 bytes in 936 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 2/2] 127.0.0.1 () {40 vars in 712 bytes} [Tue Jun  4 22:46:08 2019] GET /static/js/jquery-ui.min.js => generated 77 bytes in 31 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 3/3] 127.0.0.1 () {40 vars in 704 bytes} [Tue Jun  4 22:46:08 2019] GET /static/js/slideshow.js => generated 77 bytes in 11 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 4/4] 127.0.0.1 () {40 vars in 740 bytes} [Tue Jun  4 22:46:08 2019] GET /static/images/logo.png => generated 77 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18068|app: 0|req: 1/5] 127.0.0.1 () {40 vars in 713 bytes} [Tue Jun  4 22:46:08 2019] GET /static/css/main.css => generated 77 bytes in 2158 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18066|app: 0|req: 1/6] 127.0.0.1 () {40 vars in 720 bytes} [Tue Jun  4 22:46:08 2019] GET /static/js/jquery-1.12.4.min.js => generated 77 bytes in 2217 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 5/8] 127.0.0.1 () {40 vars in 712 bytes} [Tue Jun  4 22:46:10 2019] GET /static/js/jquery-ui.min.js => generated 77 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18065|app: 0|req: 1/8] 127.0.0.1 () {40 vars in 715 bytes} [Tue Jun  4 22:46:08 2019] GET /static/css/reset.css => generated 77 bytes in 2251 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18068|app: 0|req: 2/9] 127.0.0.1 () {40 vars in 704 bytes} [Tue Jun  4 22:46:10 2019] GET /static/js/slideshow.js => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18066|app: 0|req: 2/10] 127.0.0.1 () {40 vars in 718 bytes} [Tue Jun  4 22:46:11 2019] GET /favicon.ico => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 6/11] 127.0.0.1 () {40 vars in 754 bytes} [Tue Jun  4 22:46:17 2019] GET /index => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+<QuerySet [<IndexTypeGoodsBanner: 草莓>]>
+<QuerySet []>
+<QuerySet []>
+<QuerySet [<IndexTypeGoodsBanner: 鸡蛋>]>
+<QuerySet []>
+<QuerySet []>
+[pid: 18066|app: 0|req: 3/12] 127.0.0.1 () {40 vars in 744 bytes} [Tue Jun  4 22:46:24 2019] GET / => generated 13576 bytes in 401 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 7/13] 127.0.0.1 () {40 vars in 715 bytes} [Tue Jun  4 22:46:25 2019] GET /static/css/reset.css => generated 77 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18068|app: 0|req: 3/14] 127.0.0.1 () {40 vars in 713 bytes} [Tue Jun  4 22:46:25 2019] GET /static/css/main.css => generated 77 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18065|app: 0|req: 2/15] 127.0.0.1 () {40 vars in 720 bytes} [Tue Jun  4 22:46:25 2019] GET /static/js/jquery-1.12.4.min.js => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18065|app: 0|req: 3/16] 127.0.0.1 () {40 vars in 712 bytes} [Tue Jun  4 22:46:25 2019] GET /static/js/jquery-ui.min.js => generated 77 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18068|app: 0|req: 4/17] 127.0.0.1 () {40 vars in 704 bytes} [Tue Jun  4 22:46:25 2019] GET /static/js/slideshow.js => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 8/18] 127.0.0.1 () {40 vars in 740 bytes} [Tue Jun  4 22:46:25 2019] GET /static/images/logo.png => generated 77 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18066|app: 0|req: 4/19] 127.0.0.1 () {40 vars in 754 bytes} [Tue Jun  4 22:46:40 2019] GET /index => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 18068|app: 0|req: 5/20] 127.0.0.1 () {40 vars in 756 bytes} [Tue Jun  4 22:46:45 2019] GET /index/ => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+<QuerySet [<IndexTypeGoodsBanner: 草莓>]>
+<QuerySet []>
+<QuerySet []>
+<QuerySet [<IndexTypeGoodsBanner: 鸡蛋>]>
+<QuerySet []>
+<QuerySet []>
+[pid: 18067|app: 0|req: 9/21] 127.0.0.1 () {40 vars in 744 bytes} [Tue Jun  4 23:10:27 2019] GET / => generated 13576 bytes in 197 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+<django.contrib.sessions.backends.cache.SessionStore object at 0x7fe1f19ca278>
+[pid: 18065|app: 0|req: 4/22] 127.0.0.1 () {42 vars in 787 bytes} [Tue Jun  4 23:10:37 2019] GET /cart/ => generated 0 bytes in 60 msecs (HTTP/1.1 302) 5 headers in 159 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 10/23] 127.0.0.1 () {42 vars in 820 bytes} [Tue Jun  4 23:10:37 2019] GET /user/login?next=/cart/ => generated 2178 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 292 bytes (1 switches on core 0)
+feng1:123456
+feng1
+/cart/
+[pid: 18068|app: 0|req: 6/24] 127.0.0.1 () {50 vars in 1021 bytes} [Tue Jun  4 23:10:46 2019] POST /user/login?next=/cart/ => generated 0 bytes in 465 msecs (HTTP/1.1 302) 9 headers in 584 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 11/25] 127.0.0.1 () {44 vars in 900 bytes} [Tue Jun  4 23:10:47 2019] GET /cart/ => generated 6472 bytes in 74 msecs (HTTP/1.1 200) 5 headers in 292 bytes (1 switches on core 0)
+[pid: 18065|app: 0|req: 5/26] 127.0.0.1 () {42 vars in 852 bytes} [Tue Jun  4 23:10:50 2019] GET /user/ => generated 4805 bytes in 331 msecs (HTTP/1.1 200) 4 headers in 124 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 12/27] 127.0.0.1 () {42 vars in 860 bytes} [Tue Jun  4 23:10:53 2019] GET /detail/11 => generated 9047 bytes in 305 msecs (HTTP/1.1 200) 5 headers in 292 bytes (1 switches on core 0)
+[pid: 18065|app: 0|req: 6/28] 127.0.0.1 () {42 vars in 856 bytes} [Tue Jun  4 23:10:57 2019] GET /cart/ => generated 6472 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 292 bytes (1 switches on core 0)
+{'order_pages': <Page 1 of 9>, 'page': 'order', 'pages': range(1, 6)}
+[pid: 18067|app: 0|req: 13/29] 127.0.0.1 () {42 vars in 866 bytes} [Tue Jun  4 23:10:58 2019] GET /user/order/1 => generated 6865 bytes in 123 msecs (HTTP/1.1 200) 5 headers in 292 bytes (1 switches on core 0)
+[pid: 18065|app: 0|req: 7/30] 127.0.0.1 () {42 vars in 859 bytes} [Tue Jun  4 23:11:00 2019] GET /user/ => generated 4805 bytes in 46 msecs (HTTP/1.1 200) 4 headers in 124 bytes (1 switches on core 0)
+[pid: 18067|app: 0|req: 14/31] 127.0.0.1 () {42 vars in 852 bytes} [Wed Jun  5 22:05:00 2019] GET /cart/ => generated 6472 bytes in 585 msecs (HTTP/1.1 200) 5 headers in 292 bytes (1 switches on core 0)
+[pid: 18065|app: 0|req: 8/32] 127.0.0.1 () {42 vars in 858 bytes} [Wed Jun  5 22:05:31 2019] GET /detail/2 => generated 9150 bytes in 157 msecs (HTTP/1.1 200) 5 headers in 292 bytes (1 switches on core 0)
